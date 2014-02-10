@@ -1,0 +1,5 @@
+lib/*
+build/*
+*.zip
+src/cv2/*
+CMakeLists.txt
